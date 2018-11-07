@@ -1,0 +1,32 @@
+body {
+    background: rgb(51, 50, 50);
+}
+
+.btn {
+    color: rgb(71, 61, 80);
+    padding: 19px 11px 15px 12px;
+    text-align:center;
+    margin:auto;
+
+}
+
+.blanco {
+    color: rgb(250, 253, 255);
+    text-align: center;
+    padding: 0px 27%;
+    font-family: 'Heebo: 400', sans-serif;
+    font-size: 1.5rem;
+}
+.blanc{
+    color: rgb(250, 253, 255);
+    text-align: center;
+    margin-top: 24%;
+    font-family: 'Heebo:800', sans-serif;
+    font-size: 3.5rem;
+
+}
+
+.cover {
+    color: white;
+    font-size: 2.5rem;
+}
